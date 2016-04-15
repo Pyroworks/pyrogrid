@@ -1,0 +1,24 @@
+{
+  "name": "pyrogrid",
+  "description": "The grid of Pyroworks (https://pyro.works) in SCSS",
+  "main": "src/grid.scss",
+  "authors": [
+    "PMK"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "Pyroworks",
+    "grid",
+    "css",
+    "css3",
+    "sass",
+    "scss",
+    "flex",
+    "flexbox"
+  ],
+  "homepage": "https://pyro.works/dev/style-guide/css-utilities#pyrogrid",
+  "moduleType": [],
+  "ignore": [
+    "**/.*"
+  ]
+}
